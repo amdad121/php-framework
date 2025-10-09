@@ -1,0 +1,24 @@
+{
+    "name": "amdadulhaq/php-framework",
+    "description": "Simple PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amdadulhaq\\PhpFramework\\": "src/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amdadul Haq",
+            "email": "amdadulhaq781@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.2",
+        "vlucas/phpdotenv": "^5.6",
+        "ext-pdo": "*"
+    }
+}
