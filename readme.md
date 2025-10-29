@@ -14,7 +14,7 @@ A simple PHP Framework
 At first clone the repository.
 
 ```bash
-git clone git@github.com:BrainStation23HR/PHP_Amdadul.git
+git clone git@github.com:amdad121/php-framework.git
 ```
 
 or download the zip file.
